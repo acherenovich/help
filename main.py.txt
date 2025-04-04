@@ -1,1 +1,1 @@
-print("Это новая функция!")
+print("Hello from conflict_branch!")
